@@ -1,0 +1,7 @@
+WCFEF_SITE = "http://localhost/Wordpress_plugin/"
+WCFEF_USERNAME = "********"
+WCFEF_PASSWORD = "*********"
+WCFEF_TESTRAIL = "https://zennode.testrail.io/"
+WCFEF_TESTRAIL_USERNAME = "*********"
+WCFEF_TESTRAIL_PASSWORD = "**********"
+WCFEF_PRODUCT_NAME = "beanie/"
